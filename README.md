@@ -93,4 +93,4 @@
 
 ---
 
-⭐ *Consistency beats talent — I build, I learn, I improve.*
+⭐ Curious about systems — from sensors to software
