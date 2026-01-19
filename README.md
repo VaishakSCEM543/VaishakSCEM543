@@ -2,8 +2,8 @@
 ### ECE Engineer | Embedded Systems & IoT Developer | C • Python • ESP32 • STM32  
 
 💡 Passionate about building **real-world smart systems** using Embedded + IoT + Automation.  
-✨ I love combining **hardware + software** to build complete working systems.  
-🎯 Actively looking for **internships / collaborations** in Embedded Systems, IoT and tech domains.
+✨ I enjoy combining **hardware + software** to build complete working solutions.  
+🎯 Actively looking for **internships / collaborations** in Embedded Systems, IoT, and related tech domains.
 
 ---
 
@@ -11,16 +11,16 @@
 - 🎓 Electronics & Communication Engineering (ECE) student  
 - 🧠 Interested in **Embedded Systems, IoT, Automation & Smart Devices**  
 - ⚡ Working with **ESP32 / STM32 / Microcontrollers**  
-- 📌 Learning: **Problem Solving • GitHub • Clean Documentation • Real Projects**  
-- 🤝 Open to: **Internships | Collabs | Team Projects**
+- 📌 Improving: **Problem Solving • GitHub • Documentation • Real Projects**  
+- 🤝 Open to: **Internships | Collaborations | Team Projects**
 
 ---
 
 ## 🎯 What I’m Looking For
 - Internship opportunities in **Embedded Systems / IoT / Firmware**
-- Projects involving **ESP32, STM32, sensors, automation**
-- Building systems using **IoT + API + Dashboard** concepts
-- Teams where I can learn and contribute consistently
+- Hands-on work involving **ESP32, STM32, sensors, automation**
+- Building complete systems using **IoT + API + Dashboard** concepts
+- Teams where I can learn fast and contribute consistently
 
 ---
 
@@ -50,10 +50,10 @@
 ---
 
 ## 🌐 Software + Web Side (IoT Dashboard Focus)
-- 📡 Interested in connecting **ESP32/IoT devices → APIs → Cloud → Dashboard**
+- 📡 Building systems that connect **IoT devices → APIs → Cloud → Dashboards**
 - 🐍 Using **Python** for backend logic, automation, and data handling
-- 💻 Learning to build simple **web dashboards** to visualize sensor data
-- 🚀 Goal: Create complete systems (Hardware + Software) that solve real problems
+- 📊 Exploring dashboards for **real-time monitoring and insights**
+- 🎯 Goal: Deliver complete solutions (Hardware + Software) with real-world impact
 
 ---
 
@@ -87,10 +87,8 @@
 ## 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=VaishakSCEM543&theme=tokyonight&hide_border=true&show_icons=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=VaishakSCEM543&theme=tokyonight&hide_border=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishakSCEM543&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
-⭐ Curious about systems — from sensors to software
+⭐ **Curious about systems. Building from sensors to software.**
