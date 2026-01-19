@@ -97,8 +97,5 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=VaishakSCEM543&theme=tokyo-night)
 
 ---
-### ✍️ Motivation
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 
 ⭐ *Consistency beats talent — I build, I learn, I improve.*
