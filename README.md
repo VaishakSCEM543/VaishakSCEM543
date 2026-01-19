@@ -66,9 +66,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishakSCEM543&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
+   
+## 📈 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=VaishakSCEM543&theme=tokyo-night)
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=VaishakSCEM543&theme=tokyonight&no-frame=true&margin-w=8)
+
+
+
+
+
 
 ---
 
