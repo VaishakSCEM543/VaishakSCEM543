@@ -93,9 +93,4 @@
 
 ---
 
-## 📈 Contribution Graph  
-![](https://github-readme-activity-graph.vercel.app/graph?username=VaishakSCEM543&theme=tokyo-night)
-
----
-
 ⭐ *Consistency beats talent — I build, I learn, I improve.*
