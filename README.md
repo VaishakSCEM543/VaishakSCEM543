@@ -4,7 +4,7 @@
 💡 Passionate about building **real-world smart systems** using Embedded + IoT + Automation.  
 ✨ I enjoy combining **hardware + software** to build complete working solutions.  
 🎯 Actively looking for **internships / collaborations** in Embedded Systems, IoT, and related tech domains.
-
+ 
 ---
 
 ## 💫 About Me  
