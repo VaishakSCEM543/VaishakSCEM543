@@ -84,11 +84,4 @@
 
 ---
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=VaishakSCEM543&theme=tokyonight&hide_border=true&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishakSCEM543&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
 ⭐ **Curious about systems. Building from sensors to software.**
