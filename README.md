@@ -60,6 +60,7 @@
 ## 🚀 Featured Projects  
 
 ### ✅ Smart Border Surveillance System *(Working Project)*
+🔗 https://github.com/VaishakSCEM543/smart-border-surveivalence--system.git
 📌 Smart security & surveillance concept using sensors + automation to detect threats and improve border safety  
 **Tech:** `ESP32` `IoT` `Sensors` `Automation`
 
