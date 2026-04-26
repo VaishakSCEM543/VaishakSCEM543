@@ -73,16 +73,4 @@
 
 ---
 
-### ✅ Smart Inventory Management System
-📌 Inventory tracking & monitoring system designed to reduce manual errors and improve efficiency  
-**Tech:** `IoT` `Embedded Systems` `Automation`
-
----
-
-### ✅ Smart Device Health Monitoring *(IoT + Dashboard Focus)*
-📌 Device monitoring system that tracks parameters and can be visualized on a dashboard for real-time insights  
-**Tech:** `ESP32` `Python` `API` `Dashboard`
-
----
-
 ⭐ **Curious about systems. Building from sensors to software.**
