@@ -16,7 +16,7 @@
 
 ---
 
-## 🎯 What I’m Looking For
+## 🎯 What I'm Looking For
 - Internship opportunities in **Embedded Systems / IoT / Firmware**
 - Hands-on work involving **ESP32, STM32, sensors, automation**
 - Building complete systems using **IoT + API + Dashboard** concepts
@@ -36,6 +36,7 @@
 ### 👨‍💻 Programming  
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### ⚡ Embedded / IoT  
 ![ESP32](https://img.shields.io/badge/ESP32-000?style=for-the-badge&logo=espressif&logoColor=white)
@@ -46,6 +47,8 @@
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
@@ -60,7 +63,7 @@
 ## 🚀 Featured Projects  
 
 ### ✅ Smart Border Surveillance System *(Working Project)*
-🔗 https://github.com/VaishakSCEM543/smart-border-surveivalence--system.git
+🔗 https://github.com/VaishakSCEM543/smart-border-surveivalence--system.git  
 📌 Smart security & surveillance concept using sensors + automation to detect threats and improve border safety  
 **Tech:** `ESP32` `IoT` `Sensors` `Automation`
 
@@ -69,7 +72,14 @@
 ### ✅ Smart Public Distribution System (PDS)
 🔗 https://github.com/VaishakSCEM543/smart-public-distribution-system  
 📌 Smart system to improve public distribution efficiency using **monitoring + automation + transparency**  
-**Tech:** `Embedded Systems` `IoT` `C`
+**Tech:** `Embedded Systems` `IoT` `C` `Firebase`
+
+---
+
+### ✅ AI-Enabled Tamper Detection System
+🔗 https://github.com/VaishakSCEM543/ai-enabled-tamper-detection  
+📌 AI-powered IoT monitoring platform for PDS tamper detection with **real-time anomaly scoring, Gemini AI analysis, and a React dashboard**  
+**Tech:** `ESP32` `Node.js` `React` `Firebase` `Gemini AI`
 
 ---
 
