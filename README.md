@@ -22,12 +22,12 @@
 
 ## ⚡ About Me
 
-- 🎓 **B.E. Electronics & Communication Engineering** | Sahyadri College, VTU | **CGPA: 8.8 / 10.0** | 2027
-- 🔧 I build **end-to-end embedded systems** — from sensor firmware to cloud dashboards
-- 🏆 **Best Innovation** — Udbhava 2025 · **2× Runner-Up** — Electrothon & Protothon 2026 · **SIH 2025 Selected**
-- 🌱 Currently deepening: **RTOS, STM32 HAL, MQTT, System Design**
-- 💬 Ask me about: **ESP32 · Firebase · Sensor Calibration · Distributed IoT Architecture**
-- 📫 Reach me at: **vaishak3366@gmail.com**
+* 🎓 B.E. in Electronics & Communication Engineering @ Sahyadri College of Engineering & Management (VTU) — **CGPA: 8.8/10**
+* Embedded systems engineer focused on **firmware development, sensor interfacing, and distributed IoT architectures**
+* Strong foundation in **Embedded C, communication protocols, real-time data acquisition, and hardware-software integration**
+* Currently building expertise in **STM32 HAL, FreeRTOS, driver development, and MQTT systems**
+* Experienced with **ESP32, sensor calibration, load-cell systems, RFID systems, and Firebase-backed IoT deployments**
+* Interested in **Embedded Firmware, IoT Systems, Edge AI, and Industrial Automation**
 
 ---
 
