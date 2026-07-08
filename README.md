@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vaishak D Karkera 👋</h1>
-<h3 align="center">Electronics & Communication Engineering Student · IoT Firmware · Sensor-Driven Systems</h3>
+<h3 align="center">ECE Student Building Embedded Systems, IoT & Firmware Projects</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaishak-d-karkera-49b6ba292/">
