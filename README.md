@@ -64,13 +64,6 @@ Multi-node ESP32 sensing system for cooperative environmental monitoring. Each n
 
 ---
 
-### 🟢 Smart Inventory & Shelf Management System *(Top 10 Finalist — Skill Sangam 2K25)*
-> `ESP32` `RC522 RFID` `HX711` `YOLOv5` `Embedded C`
-
-Multi-sensor inventory verification combining RFID tag identification over SPI, HX711 weight validation, and YOLOv5-based visual stock confirmation. Reached **90%+ stock-count accuracy** across sensor modalities in testing. Built and demoed as a working prototype within a 24-hour hackathon window.
-
----
-
 ### 🟢 Embedded Tamper Detection System for Weighing Machines
 > `ESP32` `HX711` `Embedded C`
 
